@@ -10,4 +10,5 @@ class MyBird extends StatelessWidget {
         'lib/images/j.png'
       ),
     );
-  }just to check the git account}
+  }
+}
